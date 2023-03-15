@@ -16,9 +16,9 @@ int main() {
 	}
 	cout << endl;
 
-	queue<string> q_names;
-	q_names.push("mostafa");
-	string name = q_names.front();
+	queue<string> q2;
+	q2.push("Asmaa");
+	string name = q2.front();
 
 	return 0;
 }
